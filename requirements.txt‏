@@ -1,0 +1,11 @@
+pyaudio
+wave
+speechrecognition
+requests
+json
+bluetooth
+websocket-client
+socket
+googletrans
+pillow
+tk
