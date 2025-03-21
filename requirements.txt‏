@@ -3,7 +3,7 @@ wave
 speechrecognition
 requests
 json
-bluetooth
+pybluez
 websocket-client
 socket
 googletrans
